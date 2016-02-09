@@ -11,17 +11,19 @@
  list-style-position:outside;
  -moz-border-radius: 50px; 
  -webkit-border-radius: 50px;
+ background-image:url("../assets/KWS_LOGO_2_edited.jpg");
+ background-size:110% 110%;
  border-radius: 50px;
 } 
 /*************
  * problem to solve
  **************/
-.logo-border { 
+.logo-border{ 
  width: 120px;
  height: 120px; 
  list-style-position:outside;
  background: red;
- position:absolute;
+ position:relative;
  -moz-border-radius: 70px; 
  -webkit-border-radius: 70px;
  border-radius: 70px;
