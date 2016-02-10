@@ -291,7 +291,9 @@ input[type="radio"] {
 /**
    * Fix the cursor style for Chrome's increment/decrement buttons. For certain
    * `font-size` values of the `input`, it causes the cursor style of the
-   * decrement button to change from `default` to `text`.
+   * decrement button to change from `d<link rel="stylesheet" type="text/css" href="Stylesheets/app.css">
+      <link rel="stylesheet" type="text/css" href="Stylesheets/foundation.css">
+      <link rel="stylesheet" type="text/css" href="Stylesheets/foundation.min.css">efault` to `text`.
    */
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button {
