@@ -45,9 +45,9 @@
 
 
 
-/*************
+/******************
  * CHEETER SECTION
- *************/
+ ******************/
 .cheeter{
   clear:both;
   background:url("../assets/images.jpg");
@@ -56,6 +56,27 @@
   height:100%;
 }
 
+
+
+/*******************
+ * SERVICES SECTION
+ *******************/
+.services{
+  margin:auto;
+  padding:0;
+  height:100%;
+  background:url("../assets/kariega-white-rhino.jpg");
+}
+
+
+/*******************
+ * SERVICES SECTION
+ *******************/
+.news{
+  margin:auto;
+  padding:0;
+  height:100%;
+}
 
 
 
