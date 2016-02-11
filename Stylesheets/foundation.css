@@ -1403,7 +1403,7 @@ kbd {
     border: 1px solid #999;
     page-break-inside: avoid; }
   thead {
-    display: table-header-group; }
+    display: table-header-group; }fefefe
   tr,
   img {
     page-break-inside: avoid; }
@@ -1944,7 +1944,7 @@ select {
     margin: 0;
     font-size: inherit; }
     .button-group .button:not(:last-child) {
-      border-right: 1px solid #fefefe; }
+      border-right: 1px solid none; }
   .button-group.tiny {
     font-size: 0.6rem; }
   .button-group.small {
