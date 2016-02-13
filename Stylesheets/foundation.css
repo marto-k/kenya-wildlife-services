@@ -382,7 +382,7 @@ body {
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
-  background: #fefefe;
+  background: #;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
@@ -2923,14 +2923,14 @@ table {
   thead,
   tbody,
   tfoot {
-    border: 1px solid #f1f1f1;
-    background-color: #fefefe; }
+    border: 1px solid #;
+    background-color: ; }
   caption {
     font-weight: bold;
     padding: 0.5rem 0.625rem 0.625rem; }
   thead,
   tfoot {
-    background: #f8f8f8;
+    background: #;
     color: #0a0a0a; }
     thead tr,
     tfoot tr {
@@ -2943,7 +2943,7 @@ table {
       font-weight: bold;
       text-align: left; }
   tbody tr:nth-child(even) {
-    background-color: #f1f1f1; }
+    background-color: #; }
   tbody th,
   tbody td {
     padding: 0.5rem 0.625rem 0.625rem; }
@@ -2966,16 +2966,16 @@ table.scroll {
   overflow-y: scroll; }
 
 table.hover tr:hover {
-  background-color: #f9f9f9; }
+  background-color: #; }
 
 table.hover tr:nth-of-type(even):hover {
-  background-color: #ececec; }
+  background-color: #; }
 
 .tabs {
   margin: 0;
   list-style-type: none;
-  background: #fefefe;
-  border: 1px solid #e6e6e6; }
+  background: #;
+  border: 1px solid #; }
   .tabs::before, .tabs::after {
     content: ' ';
     display: table; }
@@ -2992,7 +2992,7 @@ table.hover tr:nth-of-type(even):hover {
   .tabs.primary {
     background: #2199e8; }
     .tabs.primary > li > a {
-      color: #fefefe; }
+      color: #; }
       .tabs.primary > li > a:hover, .tabs.primary > li > a:focus {
         background: #1893e4; }
 
@@ -3005,17 +3005,17 @@ table.hover tr:nth-of-type(even):hover {
     font-size: 12px;
     color: #2199e8; }
     .tabs-title > a:hover {
-      background: #fefefe; }
+      background: #; }
     .tabs-title > a:focus, .tabs-title > a[aria-selected='true'] {
-      background: #e6e6e6; }
+      background: #; }
 
 .tabs-content {
-  background: #fefefe;
+  background: #;
   transition: all 0.5s ease;
-  border: 1px solid #e6e6e6;
+  border: 1px solid #;
   border-top: 0; }
   .tabs-content.vertical {
-    border: 1px solid #e6e6e6;
+    border: 1px solid #;
     border-left: 0; }
 
 .tabs-panel {
@@ -3025,7 +3025,7 @@ table.hover tr:nth-of-type(even):hover {
     display: block; }
 
 .thumbnail {
-  border: solid 4px #fefefe;
+  border: solid 4px #;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   display: inline-block;
   line-height: 0;
@@ -3162,7 +3162,7 @@ table.hover tr:nth-of-type(even):hover {
     clear: both; }
   .top-bar,
   .top-bar ul {
-    background-color: #e6e6e6; }
+    background-color: #; }
   .top-bar a {
     color: #2199e8; }
   .top-bar input {
