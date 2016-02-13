@@ -21,13 +21,32 @@
 #nav{
  width: 100px;
  height: 100px; 
- background: red;
+font-size: 18px;
+ background-color: orange;
+text-color:#fefefe;
  position:relative;
  -moz-border-radius: 50px; 
  -webkit-border-radius: 50px;
  border-radius: 50px;
 }
-
+a{
+    
+}
+#nav a:hover{
+    color:orange;
+background-color: white;
+}
+#nav :hover{
+    background-color: white;
+    color:orange;
+    width: 100px;
+ height: 100px; 
+font-size: 18px;
+ position:relative;
+ -moz-border-radius: 50px; 
+ -webkit-border-radius: 50px;
+ border-radius: 50px;
+}
 
 
 /*************
@@ -40,9 +59,9 @@
   overflow:;
   height:100%;
   position:;
-  height:100%;
   z-index:9;
 }
+
 
 
 
